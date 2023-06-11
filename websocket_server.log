@@ -1,0 +1,6 @@
+Jun 11, 2023 8:36:50 PM com.gt.MainServer start
+INFO: WebSocket server started on port 8080
+Jun 11, 2023 8:49:04 PM com.gt.MainServer start
+INFO: Accepted connection from 127.0.0.1
+Jun 11, 2023 8:49:04 PM com.gt.MainServer start
+INFO: Sent response to 127.0.0.1: {"number": "5395626583875343949"}
