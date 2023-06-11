@@ -21,7 +21,7 @@ and exchange messages over a WebSocket connection. The client can send requests 
 
 1. Clone the repository:
 
-| git clone | https://github.com/example/repository.git |
+| git clone | https://github.com/GrigorTumanyan/webSocketServer.git |
 |-----------|-------------------------------------------|
 
 2. Navigate to the project directory:
